@@ -1,0 +1,10 @@
+{
+  "name": "iCrowd",
+  "port": 5000,
+  "connection": "mongodb://localhost/",
+  "database": "icrowd",
+  "connectionOptions": {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true
+  }
+}
